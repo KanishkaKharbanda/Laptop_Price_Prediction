@@ -10,3 +10,7 @@ Finally, an `app.py` script is developed to deploy the model on a Streamlit web 
 3. **Ease of Access:** Deploying on Streamlit makes the app accessible from any device with internet access.
 4. **Data-Driven Insights:** EDA provides valuable insights into the factors that influence laptop prices, aiding both users and manufacturers in decision-making.
 5. **Scalable and Customizable:** The project can easily be scaled or customized to include more features or to predict prices for other electronics.
+
+
+https://github.com/user-attachments/assets/95903aa0-bc2c-4d77-ae90-1ccaddaf4b5b
+
